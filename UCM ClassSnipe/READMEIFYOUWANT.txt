@@ -5,4 +5,6 @@ the course description.
 The program will run infinitely in the background until somebody somewhere drops the class.
 When this happens, you will recieve a notification that you are able to register.
 
-command line: nohup java -jar "url" "course-name" "email"
+Ran on VM hosted by Microsoft Azure so that it can be ran infinitely.
+
+command line: nohup java -jar ClassSnipe.jar "url" "course-name" "email"
